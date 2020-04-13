@@ -1,4 +1,4 @@
-def parrot(words)
+def parrot(words = "Squawk!")
   return words
 end
 
