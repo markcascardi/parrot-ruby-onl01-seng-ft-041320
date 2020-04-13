@@ -1,3 +1,3 @@
 def parrot(words)
-  puts words
+  print words
 end
