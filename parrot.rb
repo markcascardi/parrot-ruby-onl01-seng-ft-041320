@@ -1,5 +1,5 @@
 def parrot(words)
-  puts words
+  return words
 end
 
 parrot("Squawk!")
